@@ -1,6 +1,7 @@
 # 《剑指offer》题目小结
+
 ---
----
+
 # 1. 数组中重复元素问题
 ## 1.1 Find All Duplicates in an Array
 <center>
